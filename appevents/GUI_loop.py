@@ -59,7 +59,7 @@ def GUI_loop() -> None:
                                               vals['-faceFileFaceImage-'],
                                               vals['-SL-'])
                 print(" ************************************************************************************* ")
-                print(f" >>>> Completed! {transfer} files transferred Successfully ...  ")
+                print(f" >>>> Completed! {transfer} files transferred Successfully ....  ")
                 print(" ************************************************************************************* ")
 
     window.close()  # Close window and return system resources
